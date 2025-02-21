@@ -23,6 +23,11 @@
         return t;
     }
     getTime(time);
+
+    let abc = {
+        name:'laoyang',
+        age:18
+    };
 </script>
 </body>
 </html>
